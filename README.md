@@ -47,15 +47,26 @@
 └─$ echo "I am still learning... but I will become one of the best."
 ```
 
-# 📊 GitHub Stats:
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=pwnsayem&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pwnsayem?cardType=github&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
-![](https://nirzak-streak-stats.vercel.app/?user=pwnsayem&theme=gotham&hide_border=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=pwnsayem&limit=5&theme=gotham&combine_all_yearly_contributions=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnsayem&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pwnsayem&theme=tokyonight" alt="GitHub Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pwnsayem&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pwnsayem&theme=tokyonight" alt="GitHub Stats" />
+<br>
+<!-- GitHub Streak -->
+
+![](https://nirzak-streak-stats.vercel.app/?user=pwnsayem&theme=tokyonight&hide_border=true)
+
+
+<!-- Holopin Board (optional - remove if unused) -->
+<!-- 
+<a href="https://holopin.io/@pwnsayem">
+  <img src="https://holopin.me/pwnsayem" alt="@pwnsayem's Holopin Board" />
+</a> 
+-->
+
+
 
 ### ✍️ Random Dev Quote
 
